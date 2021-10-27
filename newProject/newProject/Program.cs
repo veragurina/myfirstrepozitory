@@ -7,7 +7,7 @@ namespace newProject
         static void Main(string[] args)
         {
             int a = 12;
-            int b = 10;
+            int b = 28;
             int c = a + b;
             Console.WriteLine(c);
         }
